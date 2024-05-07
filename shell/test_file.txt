@@ -1,0 +1,13 @@
+format.c
+format.h
+includes
+libs
+Makefile
+-myown.txt
+myown.txt
+shell
+shell.c
+shell-debug
+shell.h
+shell_main.c
+test_file.txt
